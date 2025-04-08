@@ -1,2 +1,2 @@
-# tiago-yuki-masuda
+# Tiago Yuki Masuda
 My personal website.
